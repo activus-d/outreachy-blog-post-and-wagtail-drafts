@@ -1,7 +1,5 @@
 # Content outline
 
-# Content outline
-
 ## Getting started
 * Overview
 * Quick tutorial (review with mentors as to whether title is appropriate)
@@ -12,7 +10,7 @@
 > * The tutorial should state the effect of each step it directs the user to take.
 > * Every step in the tutorial should be rewarding. This means that the user should be able to see the effect of each step they take.
 > * The tutorial should disclose information progressively.
-> * The aim of the tutorial isn't to teach the user about any feature of the Wagtail admin interface but to provide them with a picture of the capabilities of Wagtail’s admin interface.
+> * The aim of the tutorial isn't to teach the user about all the features of the Wagtail admin interface but to them  use the most important ones.
 > * The tutorial has to be complete. You should not be misunderstand this to mean that the tutorial should have all the features of the admin interface. It should be complete in the sense that it has a start that is meaningful to a beginner and a meaningful end.
 > 
 > ### Possible issue
@@ -21,6 +19,8 @@
 ## Concepts
 * Admin interface
 * Pages
+  * Edit screen
+  * Rich text field
 * Streamfield
 * Embeds
 * Snippets
@@ -69,24 +69,22 @@ Having it in the concept section might be great for users who may find it very i
 I do not see any difference between "The wagtail sidebar" and "The sidebar" as used in the  
 existing user guide document. My suggestion is to merge the content of both elements into one.
 
-It appears to me that the commands, Search, Pages, Images, Documents, reports, Snippets, and  
+It appears to me that the features, Search, Pages, Images, Documents, reports, Snippets, and  
 Forms are not needed in this subsection. Our focus should be on documenting them in the light  
 of their functionality and not as UI elements. I believe mentioning them in the content for  
-Sidebar to aid in locating them and as a way to introduce them to the user may be a better  
-idea. The best section to host these commands is the Explanation or Concepts section.
+"The Wagtail sidebar" to is enough to aid in locating them and also introduce them to the user. The best section to host these commands is the Explanation or Concepts section.
 
 The item "Reordering pages" in the existing user guide document would find a better use and  
 purpose an item in `Manage pages`. This means it should be on the same level as 
 "Finding your way around".
 ```
 
-* Manage pages
+* Create and manage pages
   * Create a new page
   * Edit an existing page (edit locked, edit promote tab, edit settings tab)
   * Manage revisions
   * Workflow
-  * Create comments
-  * Edit comments
+  * Create and edit comments
   * Copy pages
   * Alias pages
   * Reorder pages
@@ -94,10 +92,12 @@ purpose an item in `Manage pages`. This means it should be on the same level as
   * Schedule publishing
   * Lock pages
   * Search pages
+  * Access page history
   * Delete pages
   * Typed table block (review as to whether it's placement is right)
   * Reorder pages
   * Preview pages
+* Manage revisions
 * Manage documents
   * Add documents
   * edit documents
