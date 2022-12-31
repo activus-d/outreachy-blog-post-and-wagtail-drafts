@@ -3,7 +3,7 @@ This section describes the different pages that you are going to see as you navi
 ## The dashboard
 The Wagtail dashboard is the main hub of a Wagtail website. From the dashboard, you can access all of the content you create in Wagtail as well as reports, settings, and other content management features.
 
-If you access a new version of Wagtail for the first time, then you will notice a banner on your dashboard, notifying you of new changes to Wagtail. It also provides a link to the Editor guide where you can learn more about these changes.
+If you access a new version of Wagtail for the first time, your dashboard shows a banner notifying you of the changes to Wagtail. The banner has a link to the Editor guide where you can learn more about these changes.
 
 Now let's walk you through the different panels and features you are going to find in the dashboard.
 
@@ -14,7 +14,7 @@ Wagtail is highly customizable, so your Wagtail dashboard may look different fro
 ```
 
 ### How to reach the dashboard
-Logging into Wagtail will automatically take you to the dashboard. If you navigate away from the dashboard, you can return to it at any time by clicking on the Wagtail logo in the top-left section of your screen.
+Logging into Wagtail automatically takes you to the dashboard. If you navigate away from the dashboard, you can return to it at any time by clicking on the Wagtail logo in the top-left section of your screen.
 
 ### The dashboard panels
 The dashboard panels gives you an overview of the different states of your Wagtail pages. The different panels in your Wagtail dashboard are as follows:
@@ -23,19 +23,19 @@ The dashboard panels gives you an overview of the different states of your Wagta
 The Your pages in a workflow panel shows you any pages in moderation that you own or submitted for moderation yourself. It also shows the moderation tasks that are pending and how long the tasks have been open.
 
 ### Awaiting your review
-If your webmaster or web developer gives you permission to perform moderation actions, then your Wagtail dashboard will display the Awaiting your review panel. This panel will show you the content that is ready for you to review.
+If your webmaster or web developer gives you permission to perform moderation actions, your Wagtail dashboard displays the Awaiting your review panel. This panel shows content that's ready for you to review.
 
 From the panel, you can perform the following actions:
 * Click the name of a page to edit that page.
 * Use the buttons to move the page to the next stage in your workflow by requesting changes to a page, approving the page, or approve the page with a comment.
-* Get a quick view of the page status by hovering over the indicator circles to get more information about the pending task. The indicator circles will show a tick for a completed task or an empty circle for an incomplete one.
+* Get a quick view of the page status by hovering over the indicator circles to get more information about the pending task. The indicator circles show a tick for a completed task or an empty circle for an incomplete one.
 * See how long a page has been waiting for review.
 
 #### Your most recent edits
-The panel Your most recent edits displays the five pages you last edited. The panel will show you the date that you last edited the pages as well as the current status of the pages.
+The panel Your most recent edits displays the five pages you last edited. The panel also shows the date that you last edited the pages as well as the current status of the pages.
 
 #### Your locked pages
-The Your locked pages panel shows all of the pages you've locked so that only you can edit them. From this panel, you can quickly view the date you locked a page and click on the name of a locked page to edit it.
+The Your locked pages panel shows all of the pages you've locked so that only you can edit them. From this panel, you can quickly view the date you locked a page. To edit a locked page, click the name.
 
 ### The Wagtail explorer pages
 The Explorer page allows you to view a page’s children and perform actions on them. In the Explorer page, you can publish and unpublish pages, move them to other sections, drill down into the content tree, or reorder pages within a parent to appear in menus.

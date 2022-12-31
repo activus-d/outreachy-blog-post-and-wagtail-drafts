@@ -82,7 +82,6 @@ purpose an item in `Manage pages`. This means it should be on the same level as
 * Create and manage pages
   * Create a new page
   * Edit an existing page (edit locked, edit promote tab, edit settings tab)
-  * Manage revisions
   * Workflow
   * Create and edit comments
   * Copy pages
