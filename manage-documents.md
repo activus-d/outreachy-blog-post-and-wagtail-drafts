@@ -1,7 +1,7 @@
-## Manage documents
-You can manage documents such as PDFs from the Documents interface. To access the Documents interface click Documents in the Wagtail sidebar. This interface allows you to add documents to and remove documents from Wagtail.
+# Manage documents
+You can manage documents such as PDFs from the Documents interface. To access the Documents interface click **Documents** in the Wagtail sidebar. This interface allows you to add documents to and remove documents from Wagtail.
 
-Add documents by clicking Add documents at the top right of the documents interface. Search for added documents by entering the title of the document in the search bar. The results automatically update as you type. You can also filter the results by Collection by selecting a collection from the Collection dropdown preceding the documents list. 
+Add documents by clicking **Add documents** at the top right of the documents interface. Search for added documents by entering the title of the document in the search bar. The results automatically update as you type. You can also filter the results by Collection by selecting a collection from the Collection dropdown preceding the documents list. 
 
 Select multiple documents by checking the checkbox on the left side of each document, then use the bulk actions bar at the bottom to perform an action on all selected documents.
 
