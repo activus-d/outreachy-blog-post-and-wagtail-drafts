@@ -21,10 +21,10 @@ Logging into Wagtail automatically takes you to the dashboard. If you navigate a
 The dashboard panels gives you an overview of the different states of your Wagtail pages. The different panels in your Wagtail dashboard are as follows:
 
 #### Your pages in a workflow
-The **Your pages in a workflow** panel shows you any pages in moderation that you own or submitted for moderation yourself. It also shows the moderation tasks that are pending and how long the tasks have been open.
+The _Your pages in a workflow_ panel shows you any pages in moderation that you own or submitted for moderation yourself. It also shows the moderation tasks that are pending and how long the tasks have been open.
 
 #### Awaiting your review
-If your webmaster or web developer gives you permission to perform moderation actions, your Wagtail dashboard displays the **Awaiting your review panel**. This panel shows content that's ready for you to review.
+If your webmaster or web developer gives you permission to perform moderation actions, your Wagtail dashboard displays the _Awaiting your review panel_. This panel shows content that's ready for you to review.
 
 From the panel, you can perform the following actions:
 * Click the name of a page to edit that page.
@@ -33,10 +33,10 @@ From the panel, you can perform the following actions:
 * See how long a page has been waiting for review.
 
 #### Your most recent edits
-The panel **Your most recent edits** displays the five pages you last edited. The panel also shows the date that you last edited the pages as well as the current status of the pages.
+The panel _Your most recent edits_ displays the five pages you last edited. The panel also shows the date that you last edited the pages as well as the current status of the pages.
 
 #### Your locked pages
-The **Your locked pages panel** shows all of the pages you've locked so that only you can edit them. From this panel, you can quickly view the date you locked a page. To edit a locked page, click the name.
+The _Your locked pages panel_ shows all of the pages you've locked so that only you can edit them. From this panel, you can quickly view the date you locked a page. To edit a locked page, click the name.
 
 ### The Wagtail explorer pages
 The Explorer page allows you to view a page’s children and perform actions on them. In the Explorer page, you can publish and unpublish pages, move them to other sections, drill down into the content tree, or reorder pages within a parent to appear in menus.
