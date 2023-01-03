@@ -1,3 +1,4 @@
+# Find your way around
 This section describes the different pages that you are going to see as you navigate around the CMS, and how you can find the content that you are looking for.
 
 ## The dashboard
