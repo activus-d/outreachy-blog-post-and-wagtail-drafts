@@ -11,5 +11,4 @@ If you want to edit a document, click the title of the document. When editing a 
 The search documents feature is case sensitive.
 ```
 
-
 > The search documents feature is case sensitive. Discuss with the mentors is this is intentional or needs improvement. Also I couldn't find a way to use the document or add it to an existing page. Discuss with the mentors about how one can do this and document it.
