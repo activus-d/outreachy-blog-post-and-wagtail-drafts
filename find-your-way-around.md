@@ -23,7 +23,7 @@ The dashboard panels gives you an overview of the different states of your Wagta
 #### Your pages in a workflow
 The Your pages in a workflow panel shows you any pages in moderation that you own or submitted for moderation yourself. It also shows the moderation tasks that are pending and how long the tasks have been open.
 
-### Awaiting your review
+#### Awaiting your review
 If your webmaster or web developer gives you permission to perform moderation actions, your Wagtail dashboard displays the Awaiting your review panel. This panel shows content that's ready for you to review.
 
 From the panel, you can perform the following actions:
