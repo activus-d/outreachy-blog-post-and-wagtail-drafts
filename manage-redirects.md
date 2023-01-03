@@ -28,4 +28,4 @@ Edit the details of an existing redirect by clicking the URL path of the redirec
 Keep in mind a redirect will only be initiated if the page is not found. It will not be applied to existing pages (200) which will resolve on your site.
 ```
 
-> Discuss with mentors on how what exactly the search term for a redirect is. Are users searching with the _Redirect from_ pattern or otherwise? Make sure to discuss with mentors how to maintain consistency when using the terms _interface_ and _screens_.
+> Discuss with mentors on what exactly the search term for a redirect is. Are users searching with the _Redirect from_ pattern or otherwise? Make sure to discuss with the mentors on how to maintain consistency when using the terms _interface_ and _screens_.
