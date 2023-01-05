@@ -1,29 +1,30 @@
+# Find your way around
 This section describes the different pages that you are going to see as you navigate around the CMS, and how you can find the content that you are looking for.
 
 ## The dashboard
-The Wagtail dashboard is the main hub of a Wagtail website. From the dashboard, you can access all of the content you create in Wagtail as well as reports, settings, and other content management features.
+The Wagtail **Dashboard** is the main hub of a Wagtail website. From the dashboard, you can access all of the content you create in Wagtail as well as reports, settings, and other content management features.
 
-If you access a new version of Wagtail for the first time, your dashboard shows a banner notifying you of the changes to Wagtail. The banner has a link to the Editor guide where you can learn more about these changes.
+If you access a new version of Wagtail for the first time, your **Dashboard** shows a banner notifying you of the changes to Wagtail. The banner has a link to the Editor guide where you can learn more about these changes.
 
 Now let's walk you through the different panels and features you are going to find in the dashboard.
 
 ```Note
-What you see in your Wagtail dashboard depends on your user role. Common user roles include editors, moderators, and administrators.
+What you see in your Wagtail **Dashboard** depends on your user role. Common user roles include editors, moderators, and administrators.
 
-Wagtail is highly customizable, so your Wagtail dashboard may look different from the one we are using in this demonstration. We are using the Wagtail Bakery for demonstration purposes. If you have trouble locating a panel or feature, you may want to ask your webmaster or developer if they added any customizations.
+Wagtail is highly customizable, so your Wagtail **Dashboard** may look different from the one we are using in this demonstration. We are using the Wagtail Bakery for demonstration purposes. If you have trouble locating a panel or feature, you may want to ask your webmaster or developer if they added any customizations.
 ```
 
 ### How to reach the dashboard
-Logging into Wagtail automatically takes you to the dashboard. If you navigate away from the dashboard, you can return to it at any time by clicking on the Wagtail logo in the top-left section of your screen.
+Logging into Wagtail automatically takes you to the **Dashboard**. If you navigate away from the dashboard, you can return to it at any time by clicking on the Wagtail logo in the top-left section of your screen.
 
 ### The dashboard panels
 The dashboard panels gives you an overview of the different states of your Wagtail pages. The different panels in your Wagtail dashboard are as follows:
 
 #### Your pages in a workflow
-The Your pages in a workflow panel shows you any pages in moderation that you own or submitted for moderation yourself. It also shows the moderation tasks that are pending and how long the tasks have been open.
+The **Your pages in a workflow** panel shows you any pages in moderation that you own or submitted for moderation yourself. It also shows the moderation tasks that are pending and how long the tasks have been open.
 
 ### Awaiting your review
-If your webmaster or web developer gives you permission to perform moderation actions, your Wagtail dashboard displays the Awaiting your review panel. This panel shows content that's ready for you to review.
+If your webmaster or web developer gives you permission to perform moderation actions, your Wagtail Dashboard displays the **Awaiting your review** panel. This panel shows content that's ready for you to review.
 
 From the panel, you can perform the following actions:
 * Click the name of a page to edit that page.
@@ -41,18 +42,18 @@ The Your locked pages panel shows all of the pages you've locked so that only yo
 The Explorer page allows you to view a page’s children and perform actions on them. In the Explorer page, you can publish and unpublish pages, move them to other sections, drill down into the content tree, or reorder pages within a parent to appear in menus.
 
 ### The Wagtail sidebar
-On the left hand side of the dashboard and throughout Wagtail is a menu called the Wagtail sidebar. You can use the sidebar to navigate to different parts of Wagtail.
+On the left hand side of the dashboard and throughout Wagtail is a menu called the Wagtail **Sidebar**. You can use the Sidebar to navigate to different parts of Wagtail.
 
-The Wagtail sidebar helps you quickly access your content as well as Wagtail features and settings. The items on the sidebar can vary depending on what your developer or webmaster decides to give you access to. A standard Wagtail installation has the main Wagtail features in the sidebar. These features include, Search, Documents, Snippets, Forms, Reports, Settings, and Help.
+The Wagtail **Sidebar** helps you quickly access your content as well as Wagtail features and settings. The items on the **Sidebar** can vary depending on what your developer or webmaster decides to give you access to. A standard Wagtail installation has the main Wagtail features in the sidebar. These features include, Search, Documents, Snippets, Forms, Reports, Settings, and Help.
 
 ### Search Wagtail
-The search feature is the topmost feature in the Wagtail sidebar. You can use the search feature to quickly search for content in Wagtail.
+The search feature is the topmost feature in the Wagtail **Sidebar**. You can use the search feature to quickly search for content in Wagtail.
 
 ### Adjust Wagtail's settings
-Click Settings from the Wagtail sidebar to access Wagtail settings. If you have the correct role, you'll be able to add users, add user groups, and perform other administrative tasks.
+Click **Settings** from the Wagtail sidebar to access Wagtail settings. If you have the correct role, you'll be able to add users, add user groups, and perform other administrative tasks.
 
 ### Get help
-Click Help from the Wagtail sidebar to access links to the user documentation and new features of the latest version of Wagtail.
+Click **Help** from the Wagtail sidebar to access links to the user documentation and new features of the latest version of Wagtail.
 
 
 > I noticed that the document used the terms `tools` and `features` interchangeably. To bring about consistency in this in terms, I have decided to go with the term `features`. The reason for this is that I belive the term `features` can be used more broadly to cover for both the wagtail tools and the other components that may not be strictly regarded as tools.

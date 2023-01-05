@@ -6,10 +6,10 @@ By default, there are three user roles:
 * moderator
 * editor 
 
-However, the user roles on your admin interface might be different from these because Wagtail is highly customizable. If this is the case, contact your web developer or webmaster for more details.
+However, the user roles in your admin interface might be different from these because Wagtail is highly customizable. If this is the case, contact your web developer or webmaster for more details.
 
 ## Administrator
-An administrator has the highest level of access to the admin interface. The primary role of an administrator is to add, modify, or remove user profiles. As an administrator, you can add, modify, and remove users via the Users interface. To access the Users interface, navigate to **Settings > Users** from the Wagtail **sidebar**.
+An administrator has the highest level of access to the admin interface. The primary role of an administrator is to add, modify, or remove user profiles. As an administrator, you can add, modify, and remove users via the Users interface. To access the Users interface, go to **Settings > Users** from the Wagtail **sidebar**.
 
 In the user interface, you can see all of your users, their usernames, roles, and status. The status of a user can either be active or inactive. You can sort this listing either by Name or Username.
 

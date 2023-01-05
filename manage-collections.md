@@ -12,7 +12,7 @@ The process of adding documents to a collection is similar to that of images. cl
 You can also select a collection as part of uploading multiple images or documents. It's also possible to add an image or document to a collection while editing them. To do this, click **Images** or **Documents** from the Wagtail Sidebar and select the image or document you want to add to a collection by clicking it.
 
 ## Privacy settings
-To set permissions determining who is able to view documents within a collection, navigate to **Settings > Collections** and select a collection. Then click **Privacy** preceding the collection name. Clicking **Privacy** gives you a pop-up modal from which you select the level of privacy for the collection.
+To set permissions determining who is able to view documents within a collection, go to **Settings > Collections** and select a collection. Then click **Privacy** preceding the collection name. Clicking **Privacy** gives you a pop-up modal from which you select the level of privacy for the collection.
 
 The permissions set on a collection apply to all collections below it in the hierarchy. Therefore, if you make the "root" collection private, all documents on the site become private. Permissions set in other collections only apply to those collections.
 
