@@ -6,7 +6,7 @@ Promoted search results are an optional Wagtail feature. For details on how to e
 
 Wagtail allows you to promote certain search results depending on the keyword or phrase entered by the user when searching. This can be particularly useful when users commonly refer to parts of your organization by an acronym that isn’t in official use. It's also useful if you want to direct users to a page when they enter a certain term related to the page but not included in the text of the page itself.
 
-As a concrete example, one of Torchbox's clients wanted to direct people who searched for "finances" to their "Annual budget review" page. The word "finances" isn't mentioned in either the title or the body of the target page, so they created a promoted search result for the word "finances" that pushed the budget page to the top of the search results.
+For example, Torchbox has used this feature to direct people who searched for "finances" on a particular Website to the website's "Annual budget review" page. The word "finances" isn't mentioned in either the title or the body of the target page, so they created a promoted search result for the word "finances" that pushed the "Annual budget review" page to the top of the search results.
 
 ```Note
 The promoted result will only work if the user types exactly the phrase that you have set it up for. If you have variations of a phrase that you want to take into account, then you must create additional promoted results.

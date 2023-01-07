@@ -3,10 +3,10 @@ Snippets allow you to create elements on a website once and reuse them in multip
 
 The use of snippets varies between websites. Torchbox has used snippets on some client websites for the following purposes:
 
-* For contact information for the staff. As a result, you can add them to multiple pages and manage them from one place.
+* For staff contact information. As a result, you can add them to multiple pages and manage them from one place.
 * For adverts. This way, you can apply them sitewide or on individual pages.
 * To manage links in a global area of the site. For example, in the footer.
-* For Calls to Action, such as Newsletter sign up blocks, that may be consistent across many different pages.
+* For calls to action, such as newsletter sign-up blocks, that may be consistent across many different pages.
 
 ## The Snippets menu
 You can access the Snippets menu by clicking **Snippets** in the Wagtail **Sidebar**. Clicking Snippets takes you to the **Snippets interface**. To add, edit, or delete a snippet, click the snippet type that interests you. Clicking the snippet type takes you to the edit screen from which you can add, edit, or delete a snippet. Hovering over an individual snippet displays the options to edit or delete that snippet. To add a new snippet to the snippet type click **Add (snippet type)**.
