@@ -13,7 +13,7 @@ An administrator has the highest level of access to the admin interface. The pri
 
 In the user interface, you can see all of your users, their usernames, roles, and status. The status of a user can either be active or inactive. You can sort this listing either by Name or Username.
 
-Select multiple users by checking the checkbox to the left of each user, then use the bulk action bar at the bottom to perform an action on all selected users.
+Select multiple users by checking the checkbox to the left of each user row, then use the bulk action bar at the bottom to perform an action on all selected users.
 
 Clicking on a user’s name opens their profile. From here, you can then edit that user's details.
 
@@ -24,4 +24,8 @@ A moderator has the next level of access after an administrator. A moderator has
 
 ## Editor
 An editor has the least level of access to the admin interface. An editor can only create drafts but not publish them. Also, as in the case of a moderator, an editor can't access the **Settings** section of the admin interface.
+
+```Note
+The user roles in your admin interface may be different from these because Wagtail is highly customizable. If this is the case, contact your web developer or webmaster for more details.
+```
 
