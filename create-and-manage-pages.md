@@ -31,6 +31,6 @@ When copying a page, you have the option to mark it as an alias. The content of 
 
 Creating an alias for an existing page is similar to creating a copy. Hover over a page in the Explorer page, click **More**, and then select **Copy**. Selecting **Copy** takes you to the copy page form. On the copy page form, choose another page as the parent page by clicking Choose another page. Then, click the **Alias** checkbox and click **Copy this page** to complete the aliasing. Congratulations, you just aliased a page. You can now find your aliased page in the Explorer page of the parent page.
 
-If you try to edit the aliased page, you get a notification that it's an alias of another page. To adit an aliased page, you have two options: 
+If you try to edit the aliased page, you get a notification that it's an alias of another page. To edit an aliased page, you have two options: 
 * Edit the original page. This option changes both the original page and the aliased page.
 * Convert the alias page to an ordinary page, which is a copy of the original. If you choose this option, you must make manual changes to the alias page in order for it to be in sync with the original page.

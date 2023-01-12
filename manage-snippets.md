@@ -20,7 +20,7 @@ Editing a snippet changes it on all of the pages on which it is on. In the top-r
 ## Add snippets while editing a page
 When editing a page, you may find yourself in need of a new snippet. Don't worry, Wagtail has this covered. You can create a new one without leaving the page you are editing.
 
-While editing the page, open the snippets interface in a new tab by Ctrl+click in Windows or cmd+click in MacOS. You can also open a new tab by right-clicking it and then selecting the **Open in new tab** option. Add the new snippet from this new tab as you normally would. Then return to your existing tab and reopen the Snippet chooser window by clicking Snippets from the Wagtail **Sidebar**. Congratulation, you can now see your new snippet, even though you didn’t leave the edit page.
+While editing the page, open the snippets interface in a new tab by Ctrl+click in Windows or cmd+click in macOS. You can also open a new tab by right-clicking it and then selecting the **Open in new tab** option. Add the new snippet from this new tab as you normally would. Then return to your existing tab and reopen the Snippet chooser window by clicking Snippets from the Wagtail **Sidebar**. Congratulation, you can now see your new snippet, even though you didn’t leave the edit page.
 
 ```Note
 Even though this is possible, it is advisable to save your page as a draft as often as possible. This prevents you from accidentally exiting the edit page and losing your changes.
