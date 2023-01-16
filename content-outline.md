@@ -39,6 +39,8 @@
   * Live + Draft
   * Live + (another status)
 * Users
+  * Active users
+  * Inactive users
 * Locales
 * Styleguide
 * Multi sites
