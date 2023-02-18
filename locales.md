@@ -1,0 +1,1 @@
+Locales is related to the traslation of your Watail website. Ussually you have a primary language for the content of your website and then you have other languages that the content can be translated into. You can refer to these other languages as your Locales.

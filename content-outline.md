@@ -21,8 +21,8 @@
 * Interface (Images interface, Documents interface and so on)
 * Edit screen
 * Pages
-  * Edit screen
-  * Rich text field
+* Edit screen
+* Rich text field
 * Streamfield
 * Embeds
 * Snippets

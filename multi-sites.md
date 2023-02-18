@@ -1,0 +1,1 @@
+Wagtail allows you to manage multiple Websites from your Admin interface. Only a user with an Adminstrator role can enable this in the Wagtail Admin interface. Once you have this enableble then you can refer to your Admin interface as a Multi-sites.
